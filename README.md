@@ -1,3 +1,3 @@
 # PracticaML
 
-Aqui se añadirán distintos datasets con los que poder trabajar.
+Aquí se añadirán distintos datasets con los que poder trabajar.
